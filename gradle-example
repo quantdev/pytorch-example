@@ -1,3 +1,8 @@
+https://gist.github.com/aalmiray/e6f54aa4b3803be0bcac
+
+
+
+
 task jacocoGenerateRootReport(type: JacocoReport, group: 'Test Reporting') {
     description = 'Generates aggregate report from all subprojects.'
 
